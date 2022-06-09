@@ -1,2 +1,2 @@
 # bitcoin
-比特币走势分析：分析 2012 年 1 月 1 日到 2018 年 10 月 31 日的比特币价格数据，并采用时间序列方法，构建自回归滑动平均模型（ARMA 模型），预测未来 8 个月比特币的价格走势。预测结果表明比特币将在 8 个月内降低到 4000 美金左右，与实际比特币价格趋势吻合（实际最低降到 4000 美金以下）
+Bitcoin trend analysis: Analyze the bitcoin price data from January 1, 2012 to October 31, 2018, and use the time series method to build an autoregressive moving average model (ARMA model) to predict the price trend of Bitcoin in the next 8 months. The prediction shows that bitcoin will fall to around $4,000 within 8 months, in line with the actual price trend (the actual price will fall below $4,000).
